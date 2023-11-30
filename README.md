@@ -11,7 +11,7 @@
 
 <hr style="border: 2px solid grey;">
 
-## 1. [PyTorch Fundamentals:](https://github.com/mhamzaraheel/pytorch_DeepLearning-/blob/main/NooteBooks/1%23pyTorch_Fundamentals.ipynb)
+## 1. [PyTorch Fundamentals:](https://github.com/mhamzaraheel/pytorch_DeepLearning/blob/main/NooteBooks/1%23pyTorch_Fundamentals.ipynb)
 <div align="justify">
 In this comprehensive exploration of PyTorch fundamentals, I delved into the essence of tensors, covering their creation, randomness, and manipulation. Navigated through tensor attributes, fundamental operations, and advanced techniques such as reshaping and indexing. The tutorial extended to crucial aspects like interoperability with NumPy arrays, ensuring reproducibility, and optimizing computations by harnessing the power of GPUs.
 </div>
