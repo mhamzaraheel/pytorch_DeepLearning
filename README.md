@@ -30,13 +30,15 @@ In this part, I covered the essential steps of building and training a PyTorch m
 
 </div>
 
-<!--
-## 3. [ PyTorch Neural Network Classification:](paste_your_notebook_link_here)
-<div align="justify">
 
+## 3. [ PyTorch Neural Network Classification:](https://github.com/mhamzaraheel/pytorch_DeepLearning/blob/main/NooteBooks/3_pytorch_classsification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mhamzaraheel/pytorch_DeepLearning/blob/main/NooteBooks/3_pytorch_classsification.ipynb)
+
+<div align="justify">
+In the third session, I built and trained a PyTorch neural network for classification tasks. Data preparation, model architecture, loss functions, and optimizers. The training process included raw output to predicted label transformation and thorough testing. Model improvement strategies involved adding layers, adjusting hidden units, and exploring linear and non-linear data representations. I extended our capabilities to multi-class classification, introducing a comprehensive training loop. The session concluded with a diverse set of classification evaluation metrics, providing a comprehensive guide to implementing and enhancing PyTorch classification models.
 </div>
 
-
+<!--
 ## 4. [PyTorch Fundamentals:](paste_your_notebook_link_here)
 <div align="justify">
 
