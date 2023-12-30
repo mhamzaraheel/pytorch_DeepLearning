@@ -38,12 +38,14 @@ In this part, I covered the essential steps of building and training a PyTorch m
 In the third session, I built and trained a PyTorch neural network for classification tasks. Data preparation, model architecture, loss functions, and optimizers. The training process included raw output to predicted label transformation and thorough testing. Model improvement strategies involved adding layers, adjusting hidden units, and exploring linear and non-linear data representations. I extended our capabilities to multi-class classification, introducing a comprehensive training loop. The session concluded with a diverse set of classification evaluation metrics, providing a comprehensive guide to implementing and enhancing PyTorch classification models.
 </div>
 
-<!--
-## 4. [PyTorch Fundamentals:](paste_your_notebook_link_here)
-<div align="justify">
 
+## 4. [PyTorch Computer Vision:](paste_your_notebook_link_here)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mhamzaraheel/pytorch_DeepLearning/blob/main/NooteBooks/4_pytorch_computer_vision.ipynb)
+<div align="justify">
+In the fourth part of our  "Computer Vision", I explored the applications of computer vision, PyTorch libraries, dataset preparation, and model building. Began with understanding data shapes and visualizing data, followed by DataLoader implementation. Model 1, a baseline model, was created with training/testing loops and performance evaluation. Device-agnostic code was introduced, leading to Model 2, a non-linear model, and the subsequent development of a Convolutional Neural Network (CNN), Model 3. The section concluded with model comparisons, random predictions, confusion matrix creation, and saving/loading the best-performing model, providing a comprehensive guide to PyTorch-based image classification.
 </div>
 
+<!--
 ## 5. [ PyTorch Custom Datasets:](paste_your_notebook_link_here)
 <div align="justify">
 
